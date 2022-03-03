@@ -43,3 +43,5 @@ var sum3 = (nums) => {
 console.table(sum3([-1, 0, 1, 2, -1, -4])); //Output: [[-1,-1,2],[-1,0,1]]
 console.table(sum3([])); //Output: []
 console.table(sum3([0])); //Output: []
+console.table(sum3([0, 0, 0])); //Output: [] en la prueba de Fernando y a mí me imprime [[0, 0, 0]]
+console.table(sum3([-4, -2, 1, -5, -4, -4, 4, -2, 0, 4, 0, -2, 3, 1, -5, 0])); //Output: [[-5, 1, 4],[-4, 0, 4],[-4, 1, 3],[ -2, -2, 4 ],[-2, 1, 1],[0, 0, 0]]
