@@ -22,10 +22,12 @@ const validar = (s) => {
   }
 
   //Si la pila tiene algún elemento la entrada NO es válida
-  if (pila.length > 0) return false;
+  //if (pila.length > 0) return false;
 
   //Si la pila está vacía la entrada es válida
-  return true;
+  //return true;
+
+  return pila.length > 0 ? false : true;
 };
 
 console.log(validar("()")); //true
