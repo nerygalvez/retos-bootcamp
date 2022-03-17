@@ -51,24 +51,6 @@ console.log(
   )
 );
 */
-/*
-const esPalindromo = (cadena) => {
-  let palindromo = "";
-
-  for (let iterador = 0; iterador < cadena.length; iterador++) {
-    for (let izquierda = iterador; izquierda < cadena.length; izquierda++) {
-      let derecha = cadena.length - 1 - izquierda; //Le quito uno porque el arreglo empieza de 0
-      //if (cadena[izquierda] != cadena[derecha]) return false; //Si no cumple ya NO es palíndromo
-      if (cadena[izquierda] === cadena[derecha]) {
-        let temp = cadena.slice(iterador, derecha + 1);
-        palindromo = temp.length > palindromo.length ? temp : palindromo;
-      }
-    }
-  }
-
-  return palindromo;
-};
-*/
 
 /**
  * Esta es una solución más óptima, la encontré en internet
@@ -90,25 +72,16 @@ const esPalindromo = (s) => {
     //Mientras mis punteros de izquierda y derecha estén dentro de los límites
     //y mientras sea un palíndromo (el caracter a la izquierda y el caracter de la derecha tienen que ser iguales)
 
-    console.log("******************************* i = ", i);
-
     while (l >= 0 && r < s.length && s[l] === s[r]) {
-      console.log("Izquierda = ", l, " Derecha: ", r);
-      console.log("s[l] = ", s[l], " s[r] = ", s[r]);
-      console.log("r - l + 1 > resLen ------>", r - l + 1, " > ", resLen);
       //Verifico si el tamaño de este palíndromo es mayor que la longitud de mi palíndromo actual ('res')
       if (r - l + 1 > resLen) {
         //Actualizo mi palíndromo
         res = s.slice(l, r + 1); //r + 1 porque slice no toma en cuenta la última posicíon
-        resLen = r - l + 1;
+        resLen = r - l + 1; //Calculo el tamaño de mi palíndromo
       }
 
       l -= 1; //Desplazo el puntero izquierdo hacia la izquierda
       r += 1; //Desplazox mi puntero derecho hacia la derecha
-
-      console.log("Izquierda = ", l, " Derecha: ", r);
-      console.log("s[l] = ", s[l], " s[r] = ", s[r]);
-      console.log("r - l + 1 > resLen ------>", r - l + 1, " > ", resLen);
     }
 
     //Verificamos cadenas pares
@@ -124,7 +97,7 @@ const esPalindromo = (s) => {
       if (r - l + 1 > resLen) {
         //Actualizo mi palíndromo
         res = s.slice(l, r + 1); //r + 1 porque slice no toma en cuenta la última posicíon
-        resLen = r - l + 1;
+        resLen = r - l + 1; //Calculo el tamaño de mi palíndromo
       }
 
       l -= 1; //Desplazo el puntero izquierdo hacia la izquierda
