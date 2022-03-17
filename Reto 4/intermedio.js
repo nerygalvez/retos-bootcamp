@@ -70,6 +70,12 @@ const esPalindromo = (cadena) => {
 };
 */
 
+/**
+ * Esta es una solución más óptima, la encontré en internet
+ *
+ * @param {*} s
+ * @returns
+ */
 const esPalindromo = (s) => {
   let res = "";
   resLen = 0;
