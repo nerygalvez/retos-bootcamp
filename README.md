@@ -35,20 +35,20 @@ Retos y sus soluciones del bootcamp de JavaScript, React y NodeJs.
 
 ## Cosas Varias Compartidas en Sesiones con Miguel Román
 
-- (Share Code between React Client and Express Server)[https://medium.com/@mariusbongarts11/share-code-between-react-client-and-express-server-5dc0977faa76]
+- [Share Code between React Client and Express Server](https://medium.com/@mariusbongarts11/share-code-between-react-client-and-express-server-5dc0977faa76)
 
-- (Share Code between React Client and Express Server)[https://github.com/MariusBongarts/medium-monorepo]
+- [Share Code between React Client and Express Server](https://github.com/MariusBongarts/medium-monorepo)
 
-- (Building a React app with a Express back-end in the same project with external access to a MySQL database)[https://medium.com/swlh/building-a-react-app-with-a-express-back-end-in-the-same-project-with-external-access-to-a-mysql-e06ef83c257d]
+- [Building a React app with a Express back-end in the same project with external access to a MySQL database](https://medium.com/swlh/building-a-react-app-with-a-express-back-end-in-the-same-project-with-external-access-to-a-mysql-e06ef83c257d)
 
 ### Firma Electrónica
 
-- (Firma Electrónica)[https://infile.com.gt/]
-- (Firma Electrónica)[https://products.groupdocs.cloud/signature/family/]
+- [Firma Electrónica](https://infile.com.gt/)
+- [Firma Electrónica](https://products.groupdocs.cloud/signature/family/)
 
 ### Resolución de Problemas de Programación
 
-- (lettcode)[https://leetcode.com/problemset/all/]
-- (codekata)[http://codekata.com/]
-- (codesignal)[https://codesignal.com/]
-- (freecodecamp)[https://www.freecodecamp.org/]
+- [lettcode](https://leetcode.com/problemset/all/)
+- [codekata](http://codekata.com/)
+- [codesignal](https://codesignal.com/)
+- [freecodecamp](https://www.freecodecamp.org/)
