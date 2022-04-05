@@ -32,3 +32,23 @@ Retos y sus soluciones del bootcamp de JavaScript, React y NodeJs.
 
 - [Roman to Integer](https://gist.github.com/jfernandogt/6b2cb4e4fd7f5c5cf7bf70defbb83bb8)
 - [Happy Number](https://gist.github.com/jfernandogt/692aacca90351b57a98d93e32c0cb64f)
+
+## Cosas Varias Compartidas en Sesiones con Miguel Román
+
+- (Share Code between React Client and Express Server)[https://medium.com/@mariusbongarts11/share-code-between-react-client-and-express-server-5dc0977faa76]
+
+- (Share Code between React Client and Express Server)[https://github.com/MariusBongarts/medium-monorepo]
+
+- (Building a React app with a Express back-end in the same project with external access to a MySQL database)[https://medium.com/swlh/building-a-react-app-with-a-express-back-end-in-the-same-project-with-external-access-to-a-mysql-e06ef83c257d]
+
+### Firma Electrónica
+
+- (Firma Electrónica)[https://infile.com.gt/]
+- (Firma Electrónica)[https://products.groupdocs.cloud/signature/family/]
+
+### Resolución de Problemas de Programación
+
+- (lettcode)[https://leetcode.com/problemset/all/]
+- (codekata)[http://codekata.com/]
+- (codesignal)[https://codesignal.com/]
+- (freecodecamp)[https://www.freecodecamp.org/]
