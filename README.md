@@ -33,6 +33,10 @@ Retos y sus soluciones del bootcamp de JavaScript, React y NodeJs.
 - [Roman to Integer](https://gist.github.com/jfernandogt/6b2cb4e4fd7f5c5cf7bf70defbb83bb8)
 - [Happy Number](https://gist.github.com/jfernandogt/692aacca90351b57a98d93e32c0cb64f)
 
+### Última Sesión en Vivo
+
+
+
 ## Cosas Varias Compartidas en Sesiones con Miguel Román
 
 - [Share Code between React Client and Express Server](https://medium.com/@mariusbongarts11/share-code-between-react-client-and-express-server-5dc0977faa76)
