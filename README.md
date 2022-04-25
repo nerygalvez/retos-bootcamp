@@ -35,7 +35,7 @@ Retos y sus soluciones del bootcamp de JavaScript, React y NodeJs.
 
 ### Última Sesión en Vivo
 
-
+[Add Strings](https://leetcode.com/problems/add-strings/)
 
 ## Cosas Varias Compartidas en Sesiones con Miguel Román
 
